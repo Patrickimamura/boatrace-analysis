@@ -1,1 +1,59 @@
+name: Update BOAT RACE analysis
 
+on:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: "Start date YYYY-MM-DD"
+        required: false
+        default: "2026-04-01"
+      end_date:
+        description: "End date YYYY-MM-DD, today, or yesterday"
+        required: false
+        default: "yesterday"
+      threshold:
+        description: "Trifecta payout threshold"
+        required: false
+        default: "5100"
+  schedule:
+    # Runs at 05:00 JST every day. GitHub cron uses UTC, so 05:00 JST = 20:00 UTC.
+    - cron: "0 20 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run tests
+        run: |
+          python -m unittest discover -s tests -v
+
+      - name: Run analysis
+        run: |
+          START_DATE="${{ github.event.inputs.start_date || '2026-04-01' }}"
+          END_DATE="${{ github.event.inputs.end_date || 'yesterday' }}"
+          THRESHOLD="${{ github.event.inputs.threshold || '5100' }}"
+          python boatrace_analysis.py --start-date "$START_DATE" --end-date "$END_DATE" --threshold "$THRESHOLD"
+
+      - name: Commit updated outputs
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update boatrace analysis outputs"
+          file_pattern: output/*.csv output/*.md output/*.sqlite
