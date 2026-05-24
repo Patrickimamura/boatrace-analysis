@@ -15,9 +15,20 @@ on:
         description: "Trifecta payout threshold"
         required: false
         default: "5100"
+      refresh_recent_days:
+        description: "Refetch and overwrite recent N days to catch corrected data"
+        required: false
+        default: "14"
+      force_refresh_all:
+        description: "true = refetch all cached days and overwrite if changed"
+        required: false
+        default: "false"
+
   schedule:
-    # Runs at 05:00 JST every day. GitHub cron uses UTC, so 05:00 JST = 20:00 UTC.
-    - cron: "0 20 * * *"
+    # Daily: 05:07 JST. GitHub cron is UTC, so 20:07 UTC = 05:07 JST.
+    - cron: "7 20 * * *"
+    # Weekly full refresh: Sunday 05:37 JST = Saturday 20:37 UTC.
+    - cron: "37 20 * * 6"
 
 permissions:
   contents: write
@@ -25,7 +36,7 @@ permissions:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
 
     steps:
       - name: Checkout
@@ -50,18 +61,31 @@ jobs:
           START_DATE="${{ github.event.inputs.start_date || '2026-04-01' }}"
           END_DATE="${{ github.event.inputs.end_date || 'yesterday' }}"
           THRESHOLD="${{ github.event.inputs.threshold || '5100' }}"
-          python boatrace_analysis.py --start-date "$START_DATE" --end-date "$END_DATE" --threshold "$THRESHOLD"
+          REFRESH_RECENT_DAYS="${{ github.event.inputs.refresh_recent_days || '14' }}"
+          FORCE_REFRESH_ALL="${{ github.event.inputs.force_refresh_all || 'false' }}"
 
-      - name: Commit updated outputs
+          # Weekly schedule refetches all days to catch old corrected data.
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "${{ github.event.schedule }}" = "37 20 * * 6" ]; then
+            FORCE_REFRESH_ALL="true"
+          fi
+
+          EXTRA_ARGS=""
+          if [ "$FORCE_REFRESH_ALL" = "true" ]; then
+            EXTRA_ARGS="--force-refresh-all"
+          fi
+
+          python boatrace_analysis.py             --start-date "$START_DATE"             --end-date "$END_DATE"             --threshold "$THRESHOLD"             --refresh-recent-days "$REFRESH_RECENT_DAYS"             $EXTRA_ARGS
+
+      - name: Commit updated outputs and cache
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add output || true
+          git add output cache_json || true
 
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Update boatrace analysis outputs"
+            git commit -m "Update boatrace analysis outputs and cache"
             git push
           fi
