@@ -14,9 +14,14 @@ test_make_flat_row (test_boatrace_analysis.TestBoatraceAnalysis.test_make_flat_r
 test_normalize_exhibition_time (test_boatrace_analysis.TestBoatraceAnalysis.test_normalize_exhibition_time) ... ok
 test_parse_combination_hyphen (test_boatrace_analysis.TestBoatraceAnalysis.test_parse_combination_hyphen) ... ok
 test_parse_combination_plain (test_boatrace_analysis.TestBoatraceAnalysis.test_parse_combination_plain) ... ok
+test_should_fetch_remote_force_all (test_boatrace_analysis.TestBoatraceAnalysis.test_should_fetch_remote_force_all) ... ok
+test_should_fetch_remote_missing (test_boatrace_analysis.TestBoatraceAnalysis.test_should_fetch_remote_missing) ... ok
+test_should_fetch_remote_old_cached (test_boatrace_analysis.TestBoatraceAnalysis.test_should_fetch_remote_old_cached) ... ok
+test_should_fetch_remote_recent_cached (test_boatrace_analysis.TestBoatraceAnalysis.test_should_fetch_remote_recent_cached) ... ok
 test_summarize (test_boatrace_analysis.TestBoatraceAnalysis.test_summarize) ... ok
+test_write_json_if_changed (test_boatrace_analysis.TestBoatraceAnalysis.test_write_json_if_changed) ... ok
 
 ----------------------------------------------------------------------
-Ran 6 tests in 0.024s
+Ran 11 tests in 0.046s
 
 OK
