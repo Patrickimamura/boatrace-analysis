@@ -3,7 +3,7 @@
 まずGitHubのPublicリポジトリにある以下のファイルを確認してください。
 
 - `output/high_payout_lesson_rules.md`
-- `output/high_payout_4100_over.csv`
+- `output/high_payout_5100_over.csv`
 - `output/pattern_by_boat_order.csv`
 - `output/pattern_by_course_order.csv`
 - `output/winner_features_summary.csv`
