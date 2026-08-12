@@ -812,7 +812,7 @@
       "closed_at": "2026-08-11 17:01:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 5,
@@ -976,7 +976,7 @@
       "closed_at": "2026-08-11 17:25:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 6,
@@ -1137,10 +1137,10 @@
           "racer_weight": 51.5
         }
       ],
-      "closed_at": "2026-08-11 17:52:00",
+      "closed_at": "2026-08-11 18:22:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 7,
@@ -1301,10 +1301,10 @@
           "racer_weight": 52.3
         }
       ],
-      "closed_at": "2026-08-11 18:22:00",
+      "closed_at": "2026-08-11 18:44:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 8,
@@ -1465,10 +1465,10 @@
           "racer_weight": 51.6
         }
       ],
-      "closed_at": "2026-08-11 18:52:00",
+      "closed_at": "2026-08-11 19:06:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 9,
@@ -1629,10 +1629,10 @@
           "racer_weight": 52.2
         }
       ],
-      "closed_at": "2026-08-11 19:24:00",
+      "closed_at": "2026-08-11 19:28:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 10,
@@ -1744,9 +1744,9 @@
         },
         {
           "racer_age": 52,
-          "racer_assigned_boat_number": 41,
-          "racer_assigned_boat_top_2_percent": 33.73,
-          "racer_assigned_boat_top_3_percent": 51.2,
+          "racer_assigned_boat_number": 68,
+          "racer_assigned_boat_top_2_percent": 30.95,
+          "racer_assigned_boat_top_3_percent": 46.43,
           "racer_assigned_motor_number": 47,
           "racer_assigned_motor_top_2_percent": 29.07,
           "racer_assigned_motor_top_3_percent": 43.6,
@@ -1796,7 +1796,7 @@
       "closed_at": "2026-08-11 20:02:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 11,
@@ -1960,7 +1960,7 @@
       "closed_at": "2026-08-11 20:31:00",
       "date": "2026-08-11",
       "day_label": "初日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 12,
@@ -5516,9 +5516,9 @@
         },
         {
           "racer_age": 53,
-          "racer_assigned_boat_number": 11,
-          "racer_assigned_boat_top_2_percent": 26.09,
-          "racer_assigned_boat_top_3_percent": 45.65,
+          "racer_assigned_boat_number": 62,
+          "racer_assigned_boat_top_2_percent": 28.26,
+          "racer_assigned_boat_top_3_percent": 56.52,
           "racer_assigned_motor_number": 45,
           "racer_assigned_motor_top_2_percent": 20,
           "racer_assigned_motor_top_3_percent": 24,
@@ -5580,9 +5580,9 @@
       "boats": [
         {
           "racer_age": 30,
-          "racer_assigned_boat_number": 16,
-          "racer_assigned_boat_top_2_percent": 36.11,
-          "racer_assigned_boat_top_3_percent": 55.56,
+          "racer_assigned_boat_number": 55,
+          "racer_assigned_boat_top_2_percent": 36.36,
+          "racer_assigned_boat_top_3_percent": 59.09,
           "racer_assigned_motor_number": 60,
           "racer_assigned_motor_top_2_percent": 52.38,
           "racer_assigned_motor_top_3_percent": 66.67,
@@ -9398,7 +9398,7 @@
           "racer_national_top_2_percent": 43.3,
           "racer_national_top_3_percent": 65.98,
           "racer_number": 4124,
-          "racer_weight": 52.8
+          "racer_weight": 52.7
         },
         {
           "racer_age": 30,
@@ -9423,7 +9423,7 @@
           "racer_national_top_2_percent": 33.33,
           "racer_national_top_3_percent": 45.61,
           "racer_number": 5076,
-          "racer_weight": 53.3
+          "racer_weight": 52.9
         },
         {
           "racer_age": 59,
@@ -9448,7 +9448,7 @@
           "racer_national_top_2_percent": 41.6,
           "racer_national_top_3_percent": 56,
           "racer_number": 3489,
-          "racer_weight": 53
+          "racer_weight": 52.6
         },
         {
           "racer_age": 44,
@@ -9473,7 +9473,7 @@
           "racer_national_top_2_percent": 41.12,
           "racer_national_top_3_percent": 55.14,
           "racer_number": 4150,
-          "racer_weight": 56.6
+          "racer_weight": 56.5
         },
         {
           "racer_age": 21,
@@ -9865,7 +9865,7 @@
           "racer_national_top_2_percent": 13.25,
           "racer_national_top_3_percent": 21.69,
           "racer_number": 4897,
-          "racer_weight": 43.7
+          "racer_weight": 44.5
         },
         {
           "racer_age": 54,
@@ -9890,7 +9890,7 @@
           "racer_national_top_2_percent": 20.24,
           "racer_national_top_3_percent": 33.33,
           "racer_number": 3730,
-          "racer_weight": 52.6
+          "racer_weight": 52.4
         },
         {
           "racer_age": 38,
@@ -9915,7 +9915,7 @@
           "racer_national_top_2_percent": 14.14,
           "racer_national_top_3_percent": 32.32,
           "racer_number": 4565,
-          "racer_weight": 54.5
+          "racer_weight": 53.9
         },
         {
           "racer_age": 47,
@@ -9940,7 +9940,7 @@
           "racer_national_top_2_percent": 23.01,
           "racer_national_top_3_percent": 36.28,
           "racer_number": 4035,
-          "racer_weight": 51.6
+          "racer_weight": 51.5
         },
         {
           "racer_age": 38,
@@ -9965,7 +9965,7 @@
           "racer_national_top_2_percent": 53.97,
           "racer_national_top_3_percent": 70.63,
           "racer_number": 4786,
-          "racer_weight": 54.7
+          "racer_weight": 53.7
         },
         {
           "racer_age": 20,
@@ -9990,7 +9990,7 @@
           "racer_national_top_2_percent": 1.52,
           "racer_national_top_3_percent": 4.55,
           "racer_number": 5439,
-          "racer_weight": 49.4
+          "racer_weight": 49.3
         }
       ],
       "closed_at": "2026-08-11 15:24:00",
@@ -10029,7 +10029,7 @@
           "racer_national_top_2_percent": 31.58,
           "racer_national_top_3_percent": 45.26,
           "racer_number": 4380,
-          "racer_weight": 53.4
+          "racer_weight": 53
         },
         {
           "racer_age": 39,
@@ -10054,7 +10054,7 @@
           "racer_national_top_2_percent": 50.56,
           "racer_national_top_3_percent": 70.79,
           "racer_number": 4470,
-          "racer_weight": 52.1
+          "racer_weight": 52
         },
         {
           "racer_age": 50,
@@ -10079,7 +10079,7 @@
           "racer_national_top_2_percent": 34.94,
           "racer_national_top_3_percent": 55.42,
           "racer_number": 3893,
-          "racer_weight": 54
+          "racer_weight": 53.2
         },
         {
           "racer_age": 55,
@@ -10104,7 +10104,7 @@
           "racer_national_top_2_percent": 15.79,
           "racer_national_top_3_percent": 28.95,
           "racer_number": 3637,
-          "racer_weight": 54.4
+          "racer_weight": 52.7
         },
         {
           "racer_age": 32,
@@ -10129,7 +10129,7 @@
           "racer_national_top_2_percent": 47.79,
           "racer_national_top_3_percent": 60.18,
           "racer_number": 4903,
-          "racer_weight": 51.3
+          "racer_weight": 52
         },
         {
           "racer_age": 49,
@@ -10154,7 +10154,7 @@
           "racer_national_top_2_percent": 24.41,
           "racer_national_top_3_percent": 48.03,
           "racer_number": 3934,
-          "racer_weight": 53.3
+          "racer_weight": 52.5
         }
       ],
       "closed_at": "2026-08-11 15:48:00",
@@ -10193,7 +10193,7 @@
           "racer_national_top_2_percent": 32.31,
           "racer_national_top_3_percent": 47.69,
           "racer_number": 5321,
-          "racer_weight": 54.1
+          "racer_weight": 53.4
         },
         {
           "racer_age": 24,
@@ -10218,7 +10218,7 @@
           "racer_national_top_2_percent": 40.54,
           "racer_national_top_3_percent": 59.46,
           "racer_number": 5197,
-          "racer_weight": 53.9
+          "racer_weight": 53.2
         },
         {
           "racer_age": 22,
@@ -10243,7 +10243,7 @@
           "racer_national_top_2_percent": 32.5,
           "racer_national_top_3_percent": 43.33,
           "racer_number": 5230,
-          "racer_weight": 45.3
+          "racer_weight": 45.5
         },
         {
           "racer_age": 30,
@@ -10268,7 +10268,7 @@
           "racer_national_top_2_percent": 60.68,
           "racer_national_top_3_percent": 76.92,
           "racer_number": 4960,
-          "racer_weight": 52.6
+          "racer_weight": 52
         },
         {
           "racer_age": 26,
@@ -10293,7 +10293,7 @@
           "racer_national_top_2_percent": 38.24,
           "racer_national_top_3_percent": 51.96,
           "racer_number": 5137,
-          "racer_weight": 53.4
+          "racer_weight": 53
         },
         {
           "racer_age": 42,
@@ -10318,7 +10318,7 @@
           "racer_national_top_2_percent": 25.26,
           "racer_national_top_3_percent": 44.21,
           "racer_number": 4306,
-          "racer_weight": 50.3
+          "racer_weight": 51.5
         }
       ],
       "closed_at": "2026-08-11 16:16:00",
@@ -10357,7 +10357,7 @@
           "racer_national_top_2_percent": 32.22,
           "racer_national_top_3_percent": 45.56,
           "racer_number": 3848,
-          "racer_weight": 55.2
+          "racer_weight": 55.6
         },
         {
           "racer_age": 37,
@@ -10382,7 +10382,7 @@
           "racer_national_top_2_percent": 34.15,
           "racer_national_top_3_percent": 60.98,
           "racer_number": 4509,
-          "racer_weight": 54.4
+          "racer_weight": 53.6
         },
         {
           "racer_age": 40,
@@ -10407,7 +10407,7 @@
           "racer_national_top_2_percent": 21.51,
           "racer_national_top_3_percent": 45.16,
           "racer_number": 4461,
-          "racer_weight": 57.7
+          "racer_weight": 57.5
         },
         {
           "racer_age": 25,
@@ -10432,7 +10432,7 @@
           "racer_national_top_2_percent": 38.46,
           "racer_national_top_3_percent": 58.97,
           "racer_number": 5316,
-          "racer_weight": 51
+          "racer_weight": 52
         },
         {
           "racer_age": 18,
@@ -10457,7 +10457,7 @@
           "racer_national_top_2_percent": 1.37,
           "racer_national_top_3_percent": 2.74,
           "racer_number": 5444,
-          "racer_weight": 57.7
+          "racer_weight": 57.2
         },
         {
           "racer_age": 35,
@@ -10482,7 +10482,7 @@
           "racer_national_top_2_percent": 49.52,
           "racer_national_top_3_percent": 68.57,
           "racer_number": 4586,
-          "racer_weight": 56
+          "racer_weight": 53
         }
       ],
       "closed_at": "2026-08-11 16:43:00",
@@ -10521,7 +10521,7 @@
           "racer_national_top_2_percent": 50,
           "racer_national_top_3_percent": 60.87,
           "racer_number": 4442,
-          "racer_weight": 52.5
+          "racer_weight": 52.3
         },
         {
           "racer_age": 42,
@@ -10546,7 +10546,7 @@
           "racer_national_top_2_percent": 46.15,
           "racer_national_top_3_percent": 70.94,
           "racer_number": 4308,
-          "racer_weight": 51.4
+          "racer_weight": 52.1
         },
         {
           "racer_age": 25,
@@ -10571,7 +10571,7 @@
           "racer_national_top_2_percent": 25.51,
           "racer_national_top_3_percent": 44.9,
           "racer_number": 5340,
-          "racer_weight": 44.6
+          "racer_weight": 45.5
         },
         {
           "racer_age": 29,
@@ -10596,7 +10596,7 @@
           "racer_national_top_2_percent": 54.7,
           "racer_national_top_3_percent": 69.23,
           "racer_number": 4983,
-          "racer_weight": 51.1
+          "racer_weight": 52.1
         },
         {
           "racer_age": 40,
@@ -10621,7 +10621,7 @@
           "racer_national_top_2_percent": 53.27,
           "racer_national_top_3_percent": 69.16,
           "racer_number": 4269,
-          "racer_weight": 51.4
+          "racer_weight": 51.5
         },
         {
           "racer_age": 45,
@@ -10646,7 +10646,7 @@
           "racer_national_top_2_percent": 25.88,
           "racer_national_top_3_percent": 40,
           "racer_number": 4139,
-          "racer_weight": 54.3
+          "racer_weight": 53.9
         }
       ],
       "closed_at": "2026-08-11 17:11:00",
@@ -10710,7 +10710,7 @@
           "racer_national_top_2_percent": 43.59,
           "racer_national_top_3_percent": 70.09,
           "racer_number": 4467,
-          "racer_weight": 51.4
+          "racer_weight": 51.5
         },
         {
           "racer_age": 29,
@@ -10735,7 +10735,7 @@
           "racer_national_top_2_percent": 18.84,
           "racer_national_top_3_percent": 44.93,
           "racer_number": 5128,
-          "racer_weight": 54.4
+          "racer_weight": 53.9
         },
         {
           "racer_age": 30,
@@ -10760,7 +10760,7 @@
           "racer_national_top_2_percent": 33.68,
           "racer_national_top_3_percent": 51.58,
           "racer_number": 5098,
-          "racer_weight": 53
+          "racer_weight": 52.3
         },
         {
           "racer_age": 20,
@@ -10785,7 +10785,7 @@
           "racer_national_top_2_percent": 1.52,
           "racer_national_top_3_percent": 4.55,
           "racer_number": 5439,
-          "racer_weight": 49.4
+          "racer_weight": 49.3
         },
         {
           "racer_age": 50,
@@ -10810,7 +10810,7 @@
           "racer_national_top_2_percent": 53.57,
           "racer_national_top_3_percent": 70.54,
           "racer_number": 3946,
-          "racer_weight": 55.6
+          "racer_weight": 54
         }
       ],
       "closed_at": "2026-08-11 17:36:00",
@@ -10849,7 +10849,7 @@
           "racer_national_top_2_percent": 40.38,
           "racer_national_top_3_percent": 64.42,
           "racer_number": 4066,
-          "racer_weight": 52.6
+          "racer_weight": 53.5
         },
         {
           "racer_age": 58,
@@ -10874,7 +10874,7 @@
           "racer_national_top_2_percent": 18.31,
           "racer_national_top_3_percent": 32.39,
           "racer_number": 3519,
-          "racer_weight": 51.9
+          "racer_weight": 52
         },
         {
           "racer_age": 26,
@@ -10899,7 +10899,7 @@
           "racer_national_top_2_percent": 64.84,
           "racer_national_top_3_percent": 76.92,
           "racer_number": 5068,
-          "racer_weight": 50.9
+          "racer_weight": 51.5
         },
         {
           "racer_age": 41,
@@ -10924,7 +10924,7 @@
           "racer_national_top_2_percent": 33.33,
           "racer_national_top_3_percent": 50.93,
           "racer_number": 4215,
-          "racer_weight": 55.7
+          "racer_weight": 53.4
         },
         {
           "racer_age": 41,
@@ -10949,7 +10949,7 @@
           "racer_national_top_2_percent": 31.58,
           "racer_national_top_3_percent": 45.26,
           "racer_number": 4380,
-          "racer_weight": 53.4
+          "racer_weight": 53
         },
         {
           "racer_age": 22,
@@ -10974,7 +10974,7 @@
           "racer_national_top_2_percent": 32.5,
           "racer_national_top_3_percent": 43.33,
           "racer_number": 5230,
-          "racer_weight": 45.3
+          "racer_weight": 45.5
         }
       ],
       "closed_at": "2026-08-11 18:03:00",
@@ -11013,7 +11013,7 @@
           "racer_national_top_2_percent": 38.24,
           "racer_national_top_3_percent": 51.96,
           "racer_number": 5137,
-          "racer_weight": 53.4
+          "racer_weight": 53
         },
         {
           "racer_age": 25,
@@ -11038,7 +11038,7 @@
           "racer_national_top_2_percent": 38.46,
           "racer_national_top_3_percent": 58.97,
           "racer_number": 5316,
-          "racer_weight": 51
+          "racer_weight": 52
         },
         {
           "racer_age": 34,
@@ -11063,7 +11063,7 @@
           "racer_national_top_2_percent": 13.25,
           "racer_national_top_3_percent": 21.69,
           "racer_number": 4897,
-          "racer_weight": 43.7
+          "racer_weight": 44.5
         },
         {
           "racer_age": 42,
@@ -11088,7 +11088,7 @@
           "racer_national_top_2_percent": 51.11,
           "racer_national_top_3_percent": 71.11,
           "racer_number": 4337,
-          "racer_weight": 56.7
+          "racer_weight": 54.3
         },
         {
           "racer_age": 46,
@@ -11113,7 +11113,7 @@
           "racer_national_top_2_percent": 48.12,
           "racer_national_top_3_percent": 66.92,
           "racer_number": 4067,
-          "racer_weight": 52.5
+          "racer_weight": 52
         },
         {
           "racer_age": 50,
@@ -11138,7 +11138,7 @@
           "racer_national_top_2_percent": 34.94,
           "racer_national_top_3_percent": 55.42,
           "racer_number": 3893,
-          "racer_weight": 54
+          "racer_weight": 53.2
         }
       ],
       "closed_at": "2026-08-11 18:40:00",
@@ -11177,7 +11177,7 @@
           "racer_national_top_2_percent": 45.86,
           "racer_national_top_3_percent": 64.66,
           "racer_number": 4199,
-          "racer_weight": 58.6
+          "racer_weight": 56.9
         },
         {
           "racer_age": 55,
@@ -11202,7 +11202,7 @@
           "racer_national_top_2_percent": 15.79,
           "racer_national_top_3_percent": 28.95,
           "racer_number": 3637,
-          "racer_weight": 54.4
+          "racer_weight": 52.7
         },
         {
           "racer_age": 40,
@@ -11227,7 +11227,7 @@
           "racer_national_top_2_percent": 53.27,
           "racer_national_top_3_percent": 69.16,
           "racer_number": 4269,
-          "racer_weight": 51.4
+          "racer_weight": 51.5
         },
         {
           "racer_age": 24,
@@ -11252,7 +11252,7 @@
           "racer_national_top_2_percent": 40.54,
           "racer_national_top_3_percent": 59.46,
           "racer_number": 5197,
-          "racer_weight": 53.9
+          "racer_weight": 53.2
         },
         {
           "racer_age": 43,
@@ -11277,7 +11277,7 @@
           "racer_national_top_2_percent": 36.17,
           "racer_national_top_3_percent": 58.51,
           "racer_number": 4209,
-          "racer_weight": 56.2
+          "racer_weight": 55.2
         },
         {
           "racer_age": 40,
@@ -11302,7 +11302,7 @@
           "racer_national_top_2_percent": 21.51,
           "racer_national_top_3_percent": 45.16,
           "racer_number": 4461,
-          "racer_weight": 57.7
+          "racer_weight": 57.5
         }
       ],
       "closed_at": "2026-08-11 19:11:00",
@@ -11341,7 +11341,7 @@
           "racer_national_top_2_percent": 54.7,
           "racer_national_top_3_percent": 69.23,
           "racer_number": 4983,
-          "racer_weight": 51.1
+          "racer_weight": 52.1
         },
         {
           "racer_age": 48,
@@ -11366,7 +11366,7 @@
           "racer_national_top_2_percent": 40.54,
           "racer_national_top_3_percent": 67.57,
           "racer_number": 3988,
-          "racer_weight": 55
+          "racer_weight": 53.9
         },
         {
           "racer_age": 37,
@@ -11391,7 +11391,7 @@
           "racer_national_top_2_percent": 27.27,
           "racer_national_top_3_percent": 48.48,
           "racer_number": 4731,
-          "racer_weight": 51.9
+          "racer_weight": 52
         },
         {
           "racer_age": 39,
@@ -11416,7 +11416,7 @@
           "racer_national_top_2_percent": 43.59,
           "racer_national_top_3_percent": 70.09,
           "racer_number": 4467,
-          "racer_weight": 51.4
+          "racer_weight": 51.5
         },
         {
           "racer_age": 54,
@@ -11441,7 +11441,7 @@
           "racer_national_top_2_percent": 20.24,
           "racer_national_top_3_percent": 33.33,
           "racer_number": 3730,
-          "racer_weight": 52.6
+          "racer_weight": 52.4
         },
         {
           "racer_age": 39,
@@ -11466,7 +11466,7 @@
           "racer_national_top_2_percent": 50.56,
           "racer_national_top_3_percent": 70.79,
           "racer_number": 4470,
-          "racer_weight": 52.1
+          "racer_weight": 52
         }
       ],
       "closed_at": "2026-08-11 19:42:00",
@@ -11505,7 +11505,7 @@
           "racer_national_top_2_percent": 47.79,
           "racer_national_top_3_percent": 60.18,
           "racer_number": 4903,
-          "racer_weight": 51.3
+          "racer_weight": 52
         },
         {
           "racer_age": 45,
@@ -11530,7 +11530,7 @@
           "racer_national_top_2_percent": 25.88,
           "racer_national_top_3_percent": 40,
           "racer_number": 4139,
-          "racer_weight": 54.3
+          "racer_weight": 53.9
         },
         {
           "racer_age": 38,
@@ -11555,7 +11555,7 @@
           "racer_national_top_2_percent": 53.97,
           "racer_national_top_3_percent": 70.63,
           "racer_number": 4786,
-          "racer_weight": 54.7
+          "racer_weight": 53.7
         },
         {
           "racer_age": 46,
@@ -11580,7 +11580,7 @@
           "racer_national_top_2_percent": 40.38,
           "racer_national_top_3_percent": 64.42,
           "racer_number": 4066,
-          "racer_weight": 52.6
+          "racer_weight": 53.5
         },
         {
           "racer_age": 24,
@@ -11605,7 +11605,7 @@
           "racer_national_top_2_percent": 32.31,
           "racer_national_top_3_percent": 47.69,
           "racer_number": 5321,
-          "racer_weight": 54.1
+          "racer_weight": 53.4
         },
         {
           "racer_age": 37,
@@ -11630,7 +11630,7 @@
           "racer_national_top_2_percent": 34.15,
           "racer_national_top_3_percent": 60.98,
           "racer_number": 4509,
-          "racer_weight": 54.4
+          "racer_weight": 53.6
         }
       ],
       "closed_at": "2026-08-11 20:11:00",
@@ -11669,7 +11669,7 @@
           "racer_national_top_2_percent": 51.11,
           "racer_national_top_3_percent": 71.11,
           "racer_number": 4337,
-          "racer_weight": 56.7
+          "racer_weight": 54.3
         },
         {
           "racer_age": 50,
@@ -11694,7 +11694,7 @@
           "racer_national_top_2_percent": 53.57,
           "racer_national_top_3_percent": 70.54,
           "racer_number": 3946,
-          "racer_weight": 55.6
+          "racer_weight": 54
         },
         {
           "racer_age": 35,
@@ -11719,7 +11719,7 @@
           "racer_national_top_2_percent": 49.52,
           "racer_national_top_3_percent": 68.57,
           "racer_number": 4586,
-          "racer_weight": 56
+          "racer_weight": 53
         },
         {
           "racer_age": 26,
@@ -11744,7 +11744,7 @@
           "racer_national_top_2_percent": 64.84,
           "racer_national_top_3_percent": 76.92,
           "racer_number": 5068,
-          "racer_weight": 50.9
+          "racer_weight": 51.5
         },
         {
           "racer_age": 30,
@@ -11769,7 +11769,7 @@
           "racer_national_top_2_percent": 60.68,
           "racer_national_top_3_percent": 76.92,
           "racer_number": 4960,
-          "racer_weight": 52.6
+          "racer_weight": 52
         },
         {
           "racer_age": 42,
@@ -11794,7 +11794,7 @@
           "racer_national_top_2_percent": 46.15,
           "racer_national_top_3_percent": 70.94,
           "racer_number": 4308,
-          "racer_weight": 51.4
+          "racer_weight": 52.1
         }
       ],
       "closed_at": "2026-08-11 20:41:00",
@@ -15441,7 +15441,7 @@
           "racer_national_top_2_percent": 44.23,
           "racer_national_top_3_percent": 66.35,
           "racer_number": 3854,
-          "racer_weight": 51
+          "racer_weight": 51.5
         },
         {
           "racer_age": 28,
@@ -15466,7 +15466,7 @@
           "racer_national_top_2_percent": 22.58,
           "racer_national_top_3_percent": 40.86,
           "racer_number": 4965,
-          "racer_weight": 49.6
+          "racer_weight": 50
         },
         {
           "racer_age": 46,
@@ -15516,7 +15516,7 @@
           "racer_national_top_2_percent": 46.79,
           "racer_national_top_3_percent": 65.14,
           "racer_number": 4002,
-          "racer_weight": 52.2
+          "racer_weight": 52
         },
         {
           "racer_age": 39,
@@ -15566,7 +15566,7 @@
           "racer_national_top_2_percent": 30.65,
           "racer_national_top_3_percent": 43.55,
           "racer_number": 5329,
-          "racer_weight": 51
+          "racer_weight": 50.5
         }
       ],
       "closed_at": "2026-08-11 15:38:00",
@@ -16717,7 +16717,7 @@
           "racer_weight": 53.6
         }
       ],
-      "closed_at": "2026-08-11 17:31:00",
+      "closed_at": "2026-08-11 17:35:00",
       "date": "2026-08-11",
       "day_label": "最終日",
       "distance": 1800,
@@ -17540,7 +17540,7 @@
       "closed_at": "2026-08-11 20:08:00",
       "date": "2026-08-11",
       "day_label": "最終日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 11,
@@ -17704,7 +17704,7 @@
       "closed_at": "2026-08-11 20:36:00",
       "date": "2026-08-11",
       "day_label": "最終日",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 12,
@@ -21509,7 +21509,7 @@
           "racer_national_top_2_percent": 55.47,
           "racer_national_top_3_percent": 73.44,
           "racer_number": 4433,
-          "racer_weight": 46.5
+          "racer_weight": 47
         },
         {
           "racer_age": 32,
@@ -21534,7 +21534,7 @@
           "racer_national_top_2_percent": 45.76,
           "racer_national_top_3_percent": 64.41,
           "racer_number": 4775,
-          "racer_weight": 46
+          "racer_weight": 46.5
         },
         {
           "racer_age": 41,
@@ -21609,7 +21609,7 @@
           "racer_national_top_2_percent": 35.62,
           "racer_national_top_3_percent": 53.42,
           "racer_number": 4482,
-          "racer_weight": 45.5
+          "racer_weight": 45
         },
         {
           "racer_age": 30,
@@ -21673,7 +21673,7 @@
           "racer_national_top_2_percent": 31.86,
           "racer_national_top_3_percent": 55.75,
           "racer_number": 3581,
-          "racer_weight": 52.6
+          "racer_weight": 52
         },
         {
           "racer_age": 27,
@@ -21698,7 +21698,7 @@
           "racer_national_top_2_percent": 32.5,
           "racer_national_top_3_percent": 55,
           "racer_number": 5067,
-          "racer_weight": 56.9
+          "racer_weight": 56.8
         },
         {
           "racer_age": 38,
@@ -21723,7 +21723,7 @@
           "racer_national_top_2_percent": 18.18,
           "racer_national_top_3_percent": 37.5,
           "racer_number": 4567,
-          "racer_weight": 49.8
+          "racer_weight": 51.5
         },
         {
           "racer_age": 33,
@@ -21748,7 +21748,7 @@
           "racer_national_top_2_percent": 5.88,
           "racer_national_top_3_percent": 8.82,
           "racer_number": 5176,
-          "racer_weight": 51.9
+          "racer_weight": 52
         },
         {
           "racer_age": 32,
@@ -21773,7 +21773,7 @@
           "racer_national_top_2_percent": 27.91,
           "racer_national_top_3_percent": 41.86,
           "racer_number": 4846,
-          "racer_weight": 51.5
+          "racer_weight": 52
         },
         {
           "racer_age": 20,
@@ -21798,7 +21798,7 @@
           "racer_national_top_2_percent": 14.13,
           "racer_national_top_3_percent": 26.09,
           "racer_number": 5336,
-          "racer_weight": 55.2
+          "racer_weight": 53.9
         }
       ],
       "closed_at": "2026-08-11 17:41:00",
@@ -21837,7 +21837,7 @@
           "racer_national_top_2_percent": 24.75,
           "racer_national_top_3_percent": 46.53,
           "racer_number": 4251,
-          "racer_weight": 51.6
+          "racer_weight": 52
         },
         {
           "racer_age": 41,
@@ -21862,7 +21862,7 @@
           "racer_national_top_2_percent": 17.78,
           "racer_national_top_3_percent": 37.78,
           "racer_number": 4747,
-          "racer_weight": 51.8
+          "racer_weight": 52
         },
         {
           "racer_age": 48,
@@ -21887,7 +21887,7 @@
           "racer_national_top_2_percent": 20.48,
           "racer_national_top_3_percent": 32.53,
           "racer_number": 3989,
-          "racer_weight": 57.2
+          "racer_weight": 55.3
         },
         {
           "racer_age": 56,
@@ -21912,7 +21912,7 @@
           "racer_national_top_2_percent": 15.71,
           "racer_national_top_3_percent": 35.71,
           "racer_number": 3442,
-          "racer_weight": 54.1
+          "racer_weight": 53
         },
         {
           "racer_age": 58,
@@ -21937,7 +21937,7 @@
           "racer_national_top_2_percent": 26.21,
           "racer_national_top_3_percent": 41.75,
           "racer_number": 3539,
-          "racer_weight": 51.8
+          "racer_weight": 52
         },
         {
           "racer_age": 38,
@@ -21962,7 +21962,7 @@
           "racer_national_top_2_percent": 33.33,
           "racer_national_top_3_percent": 58.73,
           "racer_number": 4475,
-          "racer_weight": 53.7
+          "racer_weight": 52.1
         }
       ],
       "closed_at": "2026-08-11 18:08:00",
@@ -22001,7 +22001,7 @@
           "racer_national_top_2_percent": 21.5,
           "racer_national_top_3_percent": 35.51,
           "racer_number": 3680,
-          "racer_weight": 54.1
+          "racer_weight": 53.7
         },
         {
           "racer_age": 47,
@@ -22026,7 +22026,7 @@
           "racer_national_top_2_percent": 17.98,
           "racer_national_top_3_percent": 26.97,
           "racer_number": 4034,
-          "racer_weight": 54.6
+          "racer_weight": 53.7
         },
         {
           "racer_age": 23,
@@ -22051,7 +22051,7 @@
           "racer_national_top_2_percent": 48.12,
           "racer_national_top_3_percent": 61.65,
           "racer_number": 5145,
-          "racer_weight": 54.2
+          "racer_weight": 52.5
         },
         {
           "racer_age": 57,
@@ -22076,7 +22076,7 @@
           "racer_national_top_2_percent": 45.3,
           "racer_national_top_3_percent": 64.96,
           "racer_number": 3562,
-          "racer_weight": 51.6
+          "racer_weight": 52
         },
         {
           "racer_age": 46,
@@ -22101,7 +22101,7 @@
           "racer_national_top_2_percent": 44.62,
           "racer_national_top_3_percent": 66.15,
           "racer_number": 4064,
-          "racer_weight": 50.6
+          "racer_weight": 52
         },
         {
           "racer_age": 22,
@@ -22126,7 +22126,7 @@
           "racer_national_top_2_percent": 3.23,
           "racer_national_top_3_percent": 9.68,
           "racer_number": 5404,
-          "racer_weight": 53.6
+          "racer_weight": 52.4
         }
       ],
       "closed_at": "2026-08-11 18:34:00",
@@ -22165,7 +22165,7 @@
           "racer_national_top_2_percent": 19.05,
           "racer_national_top_3_percent": 30.95,
           "racer_number": 4023,
-          "racer_weight": 52.8
+          "racer_weight": 52
         },
         {
           "racer_age": 30,
@@ -22190,7 +22190,7 @@
           "racer_national_top_2_percent": 50.91,
           "racer_national_top_3_percent": 61.82,
           "racer_number": 4980,
-          "racer_weight": 49.9
+          "racer_weight": 50.5
         },
         {
           "racer_age": 43,
@@ -22215,7 +22215,7 @@
           "racer_national_top_2_percent": 42.15,
           "racer_national_top_3_percent": 66.94,
           "racer_number": 4172,
-          "racer_weight": 52
+          "racer_weight": 52.2
         },
         {
           "racer_age": 28,
@@ -22240,7 +22240,7 @@
           "racer_national_top_2_percent": 23.38,
           "racer_national_top_3_percent": 41.56,
           "racer_number": 5208,
-          "racer_weight": 52.1
+          "racer_weight": 51
         },
         {
           "racer_age": 53,
@@ -22265,7 +22265,7 @@
           "racer_national_top_2_percent": 22.5,
           "racer_national_top_3_percent": 47.5,
           "racer_number": 3731,
-          "racer_weight": 53.3
+          "racer_weight": 52.9
         },
         {
           "racer_age": 28,
@@ -22290,7 +22290,7 @@
           "racer_national_top_2_percent": 52.94,
           "racer_national_top_3_percent": 68.63,
           "racer_number": 5064,
-          "racer_weight": 51.7
+          "racer_weight": 52
         }
       ],
       "closed_at": "2026-08-11 19:03:00",
@@ -22329,7 +22329,7 @@
           "racer_national_top_2_percent": 46.77,
           "racer_national_top_3_percent": 68.55,
           "racer_number": 3961,
-          "racer_weight": 53.8
+          "racer_weight": 53.6
         },
         {
           "racer_age": 30,
@@ -22354,7 +22354,7 @@
           "racer_national_top_2_percent": 22.5,
           "racer_national_top_3_percent": 56.25,
           "racer_number": 4981,
-          "racer_weight": 52.2
+          "racer_weight": 52
         },
         {
           "racer_age": 42,
@@ -22379,7 +22379,7 @@
           "racer_national_top_2_percent": 40.74,
           "racer_national_top_3_percent": 60.49,
           "racer_number": 4356,
-          "racer_weight": 51.8
+          "racer_weight": 52
         },
         {
           "racer_age": 27,
@@ -22404,7 +22404,7 @@
           "racer_national_top_2_percent": 24.64,
           "racer_national_top_3_percent": 43.48,
           "racer_number": 5041,
-          "racer_weight": 51.4
+          "racer_weight": 52
         },
         {
           "racer_age": 56,
@@ -22429,7 +22429,7 @@
           "racer_national_top_2_percent": 23.66,
           "racer_national_top_3_percent": 38.71,
           "racer_number": 3661,
-          "racer_weight": 58.1
+          "racer_weight": 57.7
         },
         {
           "racer_age": 23,
@@ -22454,7 +22454,7 @@
           "racer_national_top_2_percent": 0,
           "racer_national_top_3_percent": 0,
           "racer_number": 5448,
-          "racer_weight": 49.6
+          "racer_weight": 50.5
         }
       ],
       "closed_at": "2026-08-11 19:30:00",
@@ -22493,7 +22493,7 @@
           "racer_national_top_2_percent": 27.91,
           "racer_national_top_3_percent": 41.86,
           "racer_number": 4846,
-          "racer_weight": 51.5
+          "racer_weight": 52
         },
         {
           "racer_age": 47,
@@ -22518,7 +22518,7 @@
           "racer_national_top_2_percent": 41.32,
           "racer_national_top_3_percent": 61.98,
           "racer_number": 4057,
-          "racer_weight": 51.9
+          "racer_weight": 52.2
         },
         {
           "racer_age": 41,
@@ -22543,7 +22543,7 @@
           "racer_national_top_2_percent": 57.14,
           "racer_national_top_3_percent": 71.43,
           "racer_number": 4361,
-          "racer_weight": 52.9
+          "racer_weight": 52
         },
         {
           "racer_age": 40,
@@ -22568,7 +22568,7 @@
           "racer_national_top_2_percent": 23.38,
           "racer_national_top_3_percent": 46.75,
           "racer_number": 4425,
-          "racer_weight": 54.7
+          "racer_weight": 54.4
         },
         {
           "racer_age": 31,
@@ -22593,7 +22593,7 @@
           "racer_national_top_2_percent": 58.27,
           "racer_national_top_3_percent": 77.17,
           "racer_number": 4852,
-          "racer_weight": 51.1
+          "racer_weight": 52
         },
         {
           "racer_age": 41,
@@ -22618,7 +22618,7 @@
           "racer_national_top_2_percent": 20,
           "racer_national_top_3_percent": 37.27,
           "racer_number": 4406,
-          "racer_weight": 51.6
+          "racer_weight": 52
         }
       ],
       "closed_at": "2026-08-11 19:56:00",
@@ -22657,7 +22657,7 @@
           "racer_national_top_2_percent": 15.71,
           "racer_national_top_3_percent": 35.71,
           "racer_number": 3442,
-          "racer_weight": 54.1
+          "racer_weight": 53
         },
         {
           "racer_age": 27,
@@ -22682,7 +22682,7 @@
           "racer_national_top_2_percent": 33.33,
           "racer_national_top_3_percent": 58.06,
           "racer_number": 5106,
-          "racer_weight": 51.7
+          "racer_weight": 51.5
         },
         {
           "racer_age": 34,
@@ -22707,7 +22707,7 @@
           "racer_national_top_2_percent": 25.81,
           "racer_national_top_3_percent": 41.94,
           "racer_number": 4871,
-          "racer_weight": 53.3
+          "racer_weight": 52.1
         },
         {
           "racer_age": 34,
@@ -22732,7 +22732,7 @@
           "racer_national_top_2_percent": 36.78,
           "racer_national_top_3_percent": 56.32,
           "racer_number": 4842,
-          "racer_weight": 54.8
+          "racer_weight": 53.3
         },
         {
           "racer_age": 47,
@@ -22757,7 +22757,7 @@
           "racer_national_top_2_percent": 58.33,
           "racer_national_top_3_percent": 72.92,
           "racer_number": 3942,
-          "racer_weight": 55.1
+          "racer_weight": 53.5
         },
         {
           "racer_age": 38,
@@ -22782,7 +22782,7 @@
           "racer_national_top_2_percent": 18.18,
           "racer_national_top_3_percent": 37.5,
           "racer_number": 4567,
-          "racer_weight": 49.8
+          "racer_weight": 51.5
         }
       ],
       "closed_at": "2026-08-11 20:25:00",
@@ -22821,7 +22821,7 @@
           "racer_national_top_2_percent": 52.78,
           "racer_national_top_3_percent": 74.07,
           "racer_number": 4264,
-          "racer_weight": 53.4
+          "racer_weight": 52.6
         },
         {
           "racer_age": 49,
@@ -22846,7 +22846,7 @@
           "racer_national_top_2_percent": 30.43,
           "racer_national_top_3_percent": 43.48,
           "racer_number": 3901,
-          "racer_weight": 51.6
+          "racer_weight": 52
         },
         {
           "racer_age": 30,
@@ -22871,7 +22871,7 @@
           "racer_national_top_2_percent": 49.57,
           "racer_national_top_3_percent": 74.36,
           "racer_number": 4931,
-          "racer_weight": 53.6
+          "racer_weight": 52.3
         },
         {
           "racer_age": 43,
@@ -22896,7 +22896,7 @@
           "racer_national_top_2_percent": 24.75,
           "racer_national_top_3_percent": 46.53,
           "racer_number": 4251,
-          "racer_weight": 51.6
+          "racer_weight": 52
         },
         {
           "racer_age": 53,
@@ -22921,7 +22921,7 @@
           "racer_national_top_2_percent": 21.5,
           "racer_national_top_3_percent": 35.51,
           "racer_number": 3680,
-          "racer_weight": 54.1
+          "racer_weight": 53.7
         },
         {
           "racer_age": 40,
@@ -22946,7 +22946,7 @@
           "racer_national_top_2_percent": 9.52,
           "racer_national_top_3_percent": 25.4,
           "racer_number": 4724,
-          "racer_weight": 54.2
+          "racer_weight": 53.6
         }
       ],
       "closed_at": "2026-08-11 20:56:00",
@@ -22985,7 +22985,7 @@
           "racer_national_top_2_percent": 40.86,
           "racer_national_top_3_percent": 60.22,
           "racer_number": 4009,
-          "racer_weight": 57.5
+          "racer_weight": 55.9
         },
         {
           "racer_age": 50,
@@ -23010,7 +23010,7 @@
           "racer_national_top_2_percent": 24.73,
           "racer_national_top_3_percent": 45.16,
           "racer_number": 3930,
-          "racer_weight": 55.8
+          "racer_weight": 54.9
         },
         {
           "racer_age": 48,
@@ -23035,7 +23035,7 @@
           "racer_national_top_2_percent": 19.05,
           "racer_national_top_3_percent": 30.95,
           "racer_number": 4023,
-          "racer_weight": 52.8
+          "racer_weight": 52
         },
         {
           "racer_age": 53,
@@ -23060,7 +23060,7 @@
           "racer_national_top_2_percent": 31.86,
           "racer_national_top_3_percent": 55.75,
           "racer_number": 3581,
-          "racer_weight": 52.6
+          "racer_weight": 52
         },
         {
           "racer_age": 43,
@@ -23085,7 +23085,7 @@
           "racer_national_top_2_percent": 32.08,
           "racer_national_top_3_percent": 59.43,
           "racer_number": 4179,
-          "racer_weight": 52.2
+          "racer_weight": 52
         },
         {
           "racer_age": 41,
@@ -23110,7 +23110,7 @@
           "racer_national_top_2_percent": 17.78,
           "racer_national_top_3_percent": 37.78,
           "racer_number": 4747,
-          "racer_weight": 51.8
+          "racer_weight": 52
         }
       ],
       "closed_at": "2026-08-11 21:19:00",
@@ -23149,7 +23149,7 @@
           "racer_national_top_2_percent": 23.66,
           "racer_national_top_3_percent": 38.71,
           "racer_number": 3661,
-          "racer_weight": 58.1
+          "racer_weight": 57.7
         },
         {
           "racer_age": 58,
@@ -23174,7 +23174,7 @@
           "racer_national_top_2_percent": 26.21,
           "racer_national_top_3_percent": 41.75,
           "racer_number": 3539,
-          "racer_weight": 51.8
+          "racer_weight": 52
         },
         {
           "racer_age": 28,
@@ -23199,7 +23199,7 @@
           "racer_national_top_2_percent": 52.94,
           "racer_national_top_3_percent": 68.63,
           "racer_number": 5064,
-          "racer_weight": 51.7
+          "racer_weight": 52
         },
         {
           "racer_age": 20,
@@ -23224,7 +23224,7 @@
           "racer_national_top_2_percent": 14.13,
           "racer_national_top_3_percent": 26.09,
           "racer_number": 5336,
-          "racer_weight": 55.2
+          "racer_weight": 53.9
         },
         {
           "racer_age": 47,
@@ -23249,7 +23249,7 @@
           "racer_national_top_2_percent": 41.32,
           "racer_national_top_3_percent": 61.98,
           "racer_number": 4057,
-          "racer_weight": 51.9
+          "racer_weight": 52.2
         },
         {
           "racer_age": 47,
@@ -23274,7 +23274,7 @@
           "racer_national_top_2_percent": 17.98,
           "racer_national_top_3_percent": 26.97,
           "racer_number": 4034,
-          "racer_weight": 54.6
+          "racer_weight": 53.7
         }
       ],
       "closed_at": "2026-08-11 21:42:00",
@@ -23313,7 +23313,7 @@
           "racer_national_top_2_percent": 58.27,
           "racer_national_top_3_percent": 77.17,
           "racer_number": 4852,
-          "racer_weight": 51.1
+          "racer_weight": 52
         },
         {
           "racer_age": 38,
@@ -23338,7 +23338,7 @@
           "racer_national_top_2_percent": 33.33,
           "racer_national_top_3_percent": 58.73,
           "racer_number": 4475,
-          "racer_weight": 53.7
+          "racer_weight": 52.1
         },
         {
           "racer_age": 27,
@@ -23363,7 +23363,7 @@
           "racer_national_top_2_percent": 24.64,
           "racer_national_top_3_percent": 43.48,
           "racer_number": 5041,
-          "racer_weight": 51.4
+          "racer_weight": 52
         },
         {
           "racer_age": 43,
@@ -23388,7 +23388,7 @@
           "racer_national_top_2_percent": 42.15,
           "racer_national_top_3_percent": 66.94,
           "racer_number": 4172,
-          "racer_weight": 52
+          "racer_weight": 52.2
         },
         {
           "racer_age": 57,
@@ -23413,7 +23413,7 @@
           "racer_national_top_2_percent": 45.3,
           "racer_national_top_3_percent": 64.96,
           "racer_number": 3562,
-          "racer_weight": 51.6
+          "racer_weight": 52
         },
         {
           "racer_age": 27,
@@ -23438,7 +23438,7 @@
           "racer_national_top_2_percent": 32.5,
           "racer_national_top_3_percent": 55,
           "racer_number": 5067,
-          "racer_weight": 56.9
+          "racer_weight": 56.8
         }
       ],
       "closed_at": "2026-08-11 22:05:00",
@@ -23477,7 +23477,7 @@
           "racer_national_top_2_percent": 58.33,
           "racer_national_top_3_percent": 72.92,
           "racer_number": 3942,
-          "racer_weight": 55.1
+          "racer_weight": 53.5
         },
         {
           "racer_age": 47,
@@ -23502,7 +23502,7 @@
           "racer_national_top_2_percent": 46.77,
           "racer_national_top_3_percent": 68.55,
           "racer_number": 3961,
-          "racer_weight": 53.8
+          "racer_weight": 53.6
         },
         {
           "racer_age": 46,
@@ -23527,7 +23527,7 @@
           "racer_national_top_2_percent": 44.62,
           "racer_national_top_3_percent": 66.15,
           "racer_number": 4064,
-          "racer_weight": 50.6
+          "racer_weight": 52
         },
         {
           "racer_age": 41,
@@ -23552,7 +23552,7 @@
           "racer_national_top_2_percent": 52.78,
           "racer_national_top_3_percent": 74.07,
           "racer_number": 4264,
-          "racer_weight": 53.4
+          "racer_weight": 52.6
         },
         {
           "racer_age": 41,
@@ -23577,7 +23577,7 @@
           "racer_national_top_2_percent": 57.14,
           "racer_national_top_3_percent": 71.43,
           "racer_number": 4361,
-          "racer_weight": 52.9
+          "racer_weight": 52
         },
         {
           "racer_age": 30,
@@ -23602,7 +23602,7 @@
           "racer_national_top_2_percent": 50.91,
           "racer_national_top_3_percent": 61.82,
           "racer_number": 4980,
-          "racer_weight": 49.9
+          "racer_weight": 50.5
         }
       ],
       "closed_at": "2026-08-11 22:30:00",
@@ -23933,10 +23933,10 @@
           "racer_weight": 49
         }
       ],
-      "closed_at": "2026-08-11 15:50:00",
+      "closed_at": "2026-08-11 16:10:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 2,
@@ -24097,10 +24097,10 @@
           "racer_weight": 46.5
         }
       ],
-      "closed_at": "2026-08-11 16:19:00",
+      "closed_at": "2026-08-11 16:37:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 3,
@@ -24261,10 +24261,10 @@
           "racer_weight": 46.5
         }
       ],
-      "closed_at": "2026-08-11 16:46:00",
+      "closed_at": "2026-08-11 17:03:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 4,
@@ -24425,10 +24425,10 @@
           "racer_weight": 47.4
         }
       ],
-      "closed_at": "2026-08-11 17:19:00",
+      "closed_at": "2026-08-11 17:27:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 5,
@@ -24589,10 +24589,10 @@
           "racer_weight": 52
         }
       ],
-      "closed_at": "2026-08-11 17:47:00",
+      "closed_at": "2026-08-11 17:50:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 6,
@@ -24756,7 +24756,7 @@
       "closed_at": "2026-08-11 18:15:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 7,
@@ -24920,7 +24920,7 @@
       "closed_at": "2026-08-11 18:46:00",
       "date": "2026-08-11",
       "day_label": "５日目",
-      "distance": 1800,
+      "distance": 1200,
       "grade_label": "一般",
       "grade_number": 5,
       "number": 8,
