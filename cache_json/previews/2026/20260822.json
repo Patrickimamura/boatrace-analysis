@@ -9712,7 +9712,7 @@
       "water_temperature": 32,
       "wave_height": 1,
       "weather_number": 1,
-      "wind_direction_number": 9,
+      "wind_direction_number": 7,
       "wind_speed": 2
     },
     {
@@ -10386,58 +10386,58 @@
       "wind_speed": 2
     },
     {
-      "air_temperature": 30,
+      "air_temperature": 29,
       "boats": [
         {
           "racer_boat_number": 1,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 1,
+          "racer_exhibition_time": 6.94,
+          "racer_start_timing": 0.21,
           "racer_tilt_adjustment": 0,
           "racer_weight": 52.1,
           "racer_weight_adjustment": 0
         },
         {
           "racer_boat_number": 2,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 2,
+          "racer_exhibition_time": 6.96,
+          "racer_start_timing": 0.04,
           "racer_tilt_adjustment": 0,
           "racer_weight": 52.4,
           "racer_weight_adjustment": 0
         },
         {
           "racer_boat_number": 3,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 3,
+          "racer_exhibition_time": 7.01,
+          "racer_start_timing": 0.19,
           "racer_tilt_adjustment": 0,
           "racer_weight": 52.8,
           "racer_weight_adjustment": 0
         },
         {
           "racer_boat_number": 4,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 4,
+          "racer_exhibition_time": 6.95,
+          "racer_start_timing": 0.09,
           "racer_tilt_adjustment": 0,
           "racer_weight": 52.8,
           "racer_weight_adjustment": 0
         },
         {
           "racer_boat_number": 5,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 5,
+          "racer_exhibition_time": 6.92,
+          "racer_start_timing": 0.05,
           "racer_tilt_adjustment": 0,
           "racer_weight": 52.5,
           "racer_weight_adjustment": 0
         },
         {
           "racer_boat_number": 6,
-          "racer_course_number": null,
-          "racer_exhibition_time": 0,
-          "racer_start_timing": null,
+          "racer_course_number": 6,
+          "racer_exhibition_time": 6.98,
+          "racer_start_timing": 0.1,
           "racer_tilt_adjustment": -0.5,
           "racer_weight": 52,
           "racer_weight_adjustment": 0
@@ -10449,7 +10449,7 @@
       "water_temperature": 32,
       "wave_height": 1,
       "weather_number": 1,
-      "wind_direction_number": 9,
+      "wind_direction_number": 7,
       "wind_speed": 2
     }
   ]
