@@ -14043,75 +14043,122 @@
       "wind_speed": 4
     },
     {
-      "air_temperature": null,
+      "air_temperature": 17,
       "boats": [
         {
           "racer_boat_number": 1,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 1,
+          "racer_name": "君島 秀三",
+          "racer_number": 4137,
+          "racer_place_number": 2,
+          "racer_start_timing": 0.18
         },
         {
           "racer_boat_number": 2,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 2,
+          "racer_name": "下寺 秀和",
+          "racer_number": 4771,
+          "racer_place_number": 4,
+          "racer_start_timing": 0.16
         },
         {
           "racer_boat_number": 3,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 3,
+          "racer_name": "大野 芳顕",
+          "racer_number": 4363,
+          "racer_place_number": 5,
+          "racer_start_timing": 0.18
         },
         {
           "racer_boat_number": 4,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 4,
+          "racer_name": "森野 正弘",
+          "racer_number": 4601,
+          "racer_place_number": 1,
+          "racer_start_timing": 0.1
         },
         {
           "racer_boat_number": 5,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 5,
+          "racer_name": "谷津 幸宏",
+          "racer_number": 4109,
+          "racer_place_number": 3,
+          "racer_start_timing": 0.17
         },
         {
           "racer_boat_number": 6,
-          "racer_course_number": null,
-          "racer_name": null,
-          "racer_number": null,
-          "racer_place_number": null,
-          "racer_start_timing": null
+          "racer_course_number": 6,
+          "racer_name": "山本 修一",
+          "racer_number": 4069,
+          "racer_place_number": 6,
+          "racer_start_timing": 0.23
         }
       ],
       "date": "2026-05-22",
       "number": 12,
       "payouts": {
-        "exacta": [],
-        "place": [],
-        "quinella": [],
-        "quinella_place": [],
-        "trifecta": [],
-        "trio": [],
-        "win": []
+        "exacta": [
+          {
+            "amount": 2570,
+            "combination": "4-1"
+          }
+        ],
+        "place": [
+          {
+            "amount": 400,
+            "combination": "4"
+          },
+          {
+            "amount": 120,
+            "combination": "1"
+          }
+        ],
+        "quinella": [
+          {
+            "amount": 470,
+            "combination": "1=4"
+          }
+        ],
+        "quinella_place": [
+          {
+            "amount": 230,
+            "combination": "1=4"
+          },
+          {
+            "amount": 1130,
+            "combination": "4=5"
+          },
+          {
+            "amount": 300,
+            "combination": "1=5"
+          }
+        ],
+        "trifecta": [
+          {
+            "amount": 21110,
+            "combination": "4-1-5"
+          }
+        ],
+        "trio": [
+          {
+            "amount": 2510,
+            "combination": "1=4=5"
+          }
+        ],
+        "win": [
+          {
+            "amount": 1350,
+            "combination": "4"
+          }
+        ]
       },
       "stadium_number": 19,
-      "technique_number": null,
-      "water_temperature": null,
-      "wave_height": null,
-      "weather_number": null,
-      "wind_direction_number": null,
-      "wind_speed": null
+      "technique_number": 3,
+      "water_temperature": 23,
+      "wave_height": 4,
+      "weather_number": 1,
+      "wind_direction_number": 3,
+      "wind_speed": 4
     },
     {
       "air_temperature": 19,
