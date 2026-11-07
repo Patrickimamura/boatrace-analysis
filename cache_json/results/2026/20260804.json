@@ -3605,10 +3605,6 @@
           {
             "amount": 100,
             "combination": "1"
-          },
-          {
-            "amount": 0,
-            "combination": "2"
           }
         ],
         "quinella": [
@@ -8797,10 +8793,6 @@
           {
             "amount": 300,
             "combination": "4"
-          },
-          {
-            "amount": 0,
-            "combination": "5"
           }
         ],
         "quinella": [
@@ -8817,10 +8809,6 @@
           {
             "amount": 1140,
             "combination": "4=6"
-          },
-          {
-            "amount": 0,
-            "combination": "5=6"
           }
         ],
         "trifecta": [

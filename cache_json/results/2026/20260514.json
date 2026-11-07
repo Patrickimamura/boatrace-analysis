@@ -7508,10 +7508,6 @@
         ],
         "quinella_place": [
           {
-            "amount": 0,
-            "combination": "3=6"
-          },
-          {
             "amount": 860,
             "combination": "2=6"
           },
@@ -7848,10 +7844,6 @@
           {
             "amount": 1770,
             "combination": "4"
-          },
-          {
-            "amount": 0,
-            "combination": "6"
           }
         ],
         "quinella": [
@@ -7861,10 +7853,6 @@
           }
         ],
         "quinella_place": [
-          {
-            "amount": 0,
-            "combination": "4=6"
-          },
           {
             "amount": 630,
             "combination": "1=4"
@@ -19176,10 +19164,6 @@
           {
             "amount": 400,
             "combination": "3"
-          },
-          {
-            "amount": 0,
-            "combination": "6"
           }
         ],
         "quinella": [

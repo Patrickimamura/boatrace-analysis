@@ -9853,11 +9853,6 @@
       "air_temperature": 23,
       "boats": [
         {
-          "racer_boat_number": 0,
-          "racer_course_number": 6,
-          "racer_start_timing": null
-        },
-        {
           "racer_boat_number": 1,
           "racer_course_number": null,
           "racer_exhibition_time": 6.89,

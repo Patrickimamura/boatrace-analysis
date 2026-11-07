@@ -7462,10 +7462,6 @@
           {
             "amount": 520,
             "combination": "3"
-          },
-          {
-            "amount": 0,
-            "combination": "2"
           }
         ],
         "quinella": [
@@ -10078,10 +10074,6 @@
           {
             "amount": 770,
             "combination": "2=3"
-          },
-          {
-            "amount": 0,
-            "combination": "2=5"
           }
         ],
         "trifecta": [
@@ -10294,10 +10286,6 @@
           {
             "amount": 130,
             "combination": "2"
-          },
-          {
-            "amount": 0,
-            "combination": "5"
           }
         ],
         "quinella": [
@@ -17276,10 +17264,6 @@
           {
             "amount": 4470,
             "combination": "2=5"
-          },
-          {
-            "amount": 0,
-            "combination": "1=5"
           }
         ],
         "trifecta": [
@@ -18433,10 +18417,6 @@
           }
         ],
         "place": [
-          {
-            "amount": 0,
-            "combination": "6"
-          },
           {
             "amount": 1200,
             "combination": "5"

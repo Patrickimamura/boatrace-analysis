@@ -3244,10 +3244,6 @@
         ],
         "place": [
           {
-            "amount": 0,
-            "combination": "5"
-          },
-          {
             "amount": 440,
             "combination": "4"
           }
@@ -7494,10 +7490,6 @@
           {
             "amount": 110,
             "combination": "1"
-          },
-          {
-            "amount": 0,
-            "combination": "5"
           }
         ],
         "quinella": [
@@ -7848,10 +7840,6 @@
           {
             "amount": 110,
             "combination": "1"
-          },
-          {
-            "amount": 0,
-            "combination": "2"
           }
         ],
         "quinella": [

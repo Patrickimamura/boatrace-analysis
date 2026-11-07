@@ -6907,10 +6907,6 @@
         ],
         "place": [
           {
-            "amount": 0,
-            "combination": "2"
-          },
-          {
             "amount": 100,
             "combination": "5"
           }
